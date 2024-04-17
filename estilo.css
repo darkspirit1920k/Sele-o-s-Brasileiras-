@@ -1,14 +1,19 @@
 :root{  
 
 --cor-texto-principal:#ffffff;
---cor-texto-segundario:#ffffff;
+--cor-texto-segundario:#000000;
 --botao-principal:#ffff00;
 --botao-secundario:#008000;
 
 
 }
 
+body{
 
+background-color:var(--botao-secundario) ;
+color:var(--cor-texto-principal) ;
+
+}
 
 
 *{
@@ -17,7 +22,7 @@
 }
 
 .principal{
-   
+   background-color: black;
     background-image: url("./img/download (1).jpeg");
     background-repeat:no-repeat ;   
     background-size: cover;
