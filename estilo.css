@@ -39,6 +39,8 @@ height: 100vh; ;
 
 background-color: var(--botao-principal);
 color: var(--cor-texto-segundario) ;
-padding:lem;
+padding: lem;
 border-radius: 5px;
+text-decoration:none ;
+
 }
