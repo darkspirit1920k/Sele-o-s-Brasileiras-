@@ -23,7 +23,7 @@ color:var(--cor-texto-principal) ;
 
 .principal{
    background-color: black;
-    background-image: url("./img/cafu-2002-1.jpeg.webp");
+    background-image: url("./img/download.jpeg");
     background-repeat:no-repeat ;   
     background-size: cover;
 }
