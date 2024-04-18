@@ -1,6 +1,6 @@
 :root{  
 
---cor-texto-principal:#ffffff;
+--cor-texto-principal:#00eeff;
 --cor-texto-segundario:#000000;
 --botao-principal:#ffff00;
 --botao-secundario:#020202;
@@ -35,3 +35,9 @@ height: 100vh; ;
 }
 
 
+.container--botao{  
+
+background-color: var(--botao-principal);
+color: var(--cor-texto-segundario) ;
+padding:lem;
+}
