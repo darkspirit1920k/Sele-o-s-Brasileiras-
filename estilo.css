@@ -2,7 +2,7 @@
 
 --cor-texto-principal:#030000;
 --cor-texto-segundario:#000000;
---botao-principal:#ffff00;
+--botao-principal:#0011ff;
 --botao-secundario:#020202;
 
 
@@ -40,7 +40,7 @@ height: 100vh; ;
 background-color: var(--botao-principal);
 color: var(--cor-texto-segundario) ;
 padding: lem;
-border-radius: 25px;
+border-radius: 45px;
 text-decoration:none ;
 
 }
