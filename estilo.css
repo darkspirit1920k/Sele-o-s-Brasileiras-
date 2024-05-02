@@ -51,7 +51,7 @@ margin-bottom:2em ;
 }
 .botao--secundario{         
 background-color:transparent ;
-border:2px solid var(--cor-texto-principal) ;
+border:1px solid var(--cor-texto-principal) ;
 
 }
 .container--caixa{  
