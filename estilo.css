@@ -46,7 +46,8 @@ color: var(--cor-texto-segundario) ;
 padding: lem;
 border-radius: 5px;
 text-decoration:none ;
-
+display:block ;
+margin-bottom:2em ;
 }
 .botao--secundario{         
 background-color:transparent ;
@@ -59,3 +60,4 @@ margin:0 6em ;
 
 
 }
+.container--img 
