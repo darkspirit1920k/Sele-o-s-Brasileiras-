@@ -12,8 +12,8 @@ body{
 
 background-color:var(--botao-secundario) ;
 color:var(--cor-texto-principal) ;
-
-}
+font-size:35px ;
+  }
 
 
 *{
@@ -26,6 +26,8 @@ color:var(--cor-texto-principal) ;
     background-image: url("./img/download\ \(1\).jpeg");
     background-repeat:no-repeat ;   
     background-size: cover;
+    text-align:center;
+align-items: center;
 }
 
 .container{
@@ -44,5 +46,10 @@ color: var(--cor-texto-segundario) ;
 padding: lem;
 border-radius: 5px;
 text-decoration:none ;
+
+}
+.botao--secundario{         
+
+
 
 }
