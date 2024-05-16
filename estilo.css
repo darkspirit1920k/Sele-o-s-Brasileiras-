@@ -75,7 +75,12 @@ margin:0 6em ;
 
 }
 
-
+.descricao--titulo{
+   font-weight: ;
+   font-size: ;
+   color: var(--cor-texto-principal);
+   margin-bottom: ;
+}
 
 
 
